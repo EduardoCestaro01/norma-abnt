@@ -1,0 +1,21 @@
+O QUE É UMA REFERÊNCIA BIBLIOGRÁFICA:
+
+A referência bibliográfica é um conjunto de elementos, que, juntos, identificam documentos impressos ou digitais, detalhando como e onde encontrá-los.
+Por exemplo, em trabalhos acadêmicos, existe uma pesquisa bibliográfica para o embasamento teórico do pesquisador.
+Assim, a referência bibliográfica se torna nada mais do que um item de comprovação daquela base teórica, elencando todos os documentos que foram utilizados naquela pesquisa.
+Por isso, é necessário que você ilustre ao final do trabalho as suas referências bibliográficas, com o objetivo de comprovar as suas fontes e onde elas podem ser encontradas.
+Nela, você exibirá itens importantes, como:
+
+Nome e sobrenome do autor;
+Título da obra ou trabalho acadêmico;
+Ano de publicação;
+Local de publicação;
+Editora (em caso de livros e dicionários).
+
+Referências de citações feitas de um livro devem conter os seguintes dados:
+
+Nome(s) do(s) autor(es), título, subtítulo (se houver), edição (se houver), local, editora e data de publicação.
+
+Referências de citações feitas de um site devem conter os seguintes dados:
+
+Nome(s) do(s) autor(es) (se houver), título da matéria, nome do site, ano, endereço eletrônico e a data em que fizemos o acesso.
